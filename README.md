@@ -1,2 +1,4 @@
 # projecte4-tasca02
-Aqui esta la tasca 2 del projecte 4.
+En aquesta activitat treballarem un aspecte fonamental de control de versions: l'historial de versions. Veurem com podem viatjar en el temps dins del nostre repositori i recuperar versions anteriors dels fitxers.
+
+
